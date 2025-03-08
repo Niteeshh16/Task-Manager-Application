@@ -1,29 +1,18 @@
-This is a full-stack task management application built using Spring Boot (Microservices), React, MySQL, Material-UI (MUI), Tailwind CSS, and Redux Toolkit. The application allows users to create, update, delete, and manage tasks with authentication and additional features like filtering, categorization, and prioritization.
+This is a full-stack task management application built using Spring Boot (Microservices), React, MySQL,Tailwind CSS, and Redux Toolkit. The application allows users to create, update, delete, and manage tasks with authentication and additional features.
 
 Tech Stack
-
 Backend:
-
 Spring Boot (Microservices Architecture)
-
 Spring Security & JWT (Authentication)
-
 Spring Cloud Eureka & API Gateway (Service Discovery & Routing)
-
 MySQL (Database - Separate databases for each microservice)
-
 JPA/Hibernate (ORM for database interactions)
 
 Frontend:
-
 React.js (UI Framework)
-
 Redux Toolkit (State Management)
-
 Material-UI (MUI) (UI Components)
-
 Tailwind CSS (Styling)
-
 Setup Instructions
 
 1. Fork and Clone the Repository

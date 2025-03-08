@@ -102,12 +102,6 @@ Start the Frontend (npm start).
 
 Once all services are running, visit: http://localhost:3000/
 
-Deployment
-
-Frontend can be deployed using Vercel/Netlify.
-
-Backend can be deployed using Render/Heroku.
-
 Assumptions
 
 The user has Node.js (v16+) and npm installed.

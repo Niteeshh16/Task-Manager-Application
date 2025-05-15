@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Task Management.iml" filepath="$PROJECT_DIR$/.idea/Task Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Management (spring boot)/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/Task Management (spring boot)/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Management (spring boot)/gatwayserver/gatwayserver.iml" filepath="$PROJECT_DIR$/Task Management (spring boot)/gatwayserver/gatwayserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Management (spring boot)/task-notification-service/task-notification-service.iml" filepath="$PROJECT_DIR$/Task Management (spring boot)/task-notification-service/task-notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Management (spring boot)/task-service/task-service.iml" filepath="$PROJECT_DIR$/Task Management (spring boot)/task-service/task-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Management (spring boot)/task-submition-service/task-submition-service.iml" filepath="$PROJECT_DIR$/Task Management (spring boot)/task-submition-service/task-submition-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Management (spring boot)/user-service/user-service.iml" filepath="$PROJECT_DIR$/Task Management (spring boot)/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
